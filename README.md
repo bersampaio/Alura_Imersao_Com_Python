@@ -5,7 +5,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-brightgreen)
 ![Plotly](https://img.shields.io/badge/Plotly-5.24.1-purple)
 ![NumPy](https://img.shields.io/badge/NumPy-2.4.2-yellowgreen)
-![Altair](https://img.shields.io/badge/Altair-5.5.0-red)
 
 ## 📚 Sobre o projeto
 Este projeto foi desenvolvido durante a **[Imersão de Dados com Python II](https://cursos.alura.com.br/imersao/imersao-dados-python-ii)** da Alura.  
